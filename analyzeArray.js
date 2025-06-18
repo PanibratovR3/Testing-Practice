@@ -8,5 +8,4 @@ function analyzeArray(array) {
   return { average, min, max, length };
 }
 
-// console.log(analyzeArray([]));
 export { analyzeArray };
